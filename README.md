@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## BOJ / solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nm090909)](https://solved.ac/nm090909/)
+
+## Email
+nm09090@naver.com

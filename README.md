@@ -9,7 +9,7 @@
 
 <br/>
 
-현재 관심사 : MySQL Structure, Port&Adapter Architecture
+현재 관심사 : Spring batch, System monitoring
 
 ## Algorithm PS [BOJ/solved.ac]
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nm090909)](https://solved.ac/nm090909/)
